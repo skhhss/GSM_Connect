@@ -1,0 +1,13 @@
+ttyUSB0
+115200
+nocrtscts
+modem
+passive
+defaultroute
+noipdefault
+usepeerdns
+noauth
+hide-password
+persist
+holdoff 10
+maxfail 0
